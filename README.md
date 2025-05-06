@@ -9,6 +9,16 @@
 - :brain: Constantly thinking of universal philosofical issues, I create my writings on [Obsidian](https://obsidian.md/)
 - :seedling: Looking forward to collaborate and get a remote job 💻
 - :mailbox_with_no_mail: How to reach me: No way! Just follow me here 👧
+- 🌱 I’m currently learning **[What you're currently learning]**.
+- ⚡️ Fun fact: **[I am a philosopher 🤭 ]**.
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+- [Project 1](https://github.com/yourusername/project1) 
+- [Project 2](https://github.com/yourusername/project2)  
+- [Project 3](https://github.com/yourusername/project3) 
 
 
 ## Stuff I somehow know:
