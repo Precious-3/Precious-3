@@ -5,18 +5,18 @@
 ## :sparkles: Highlights
 - 🖤 Call me Precious
 - 🐱 Oftenly Tinkering with some techs, namely Django, Quasar, Flutter | Exploring Astro
-- :man_technologist: Computer Science student | Software Engineer.
+- :man_technologist: Computer Science Graduate | Software Engineer.
 - :brain: Constantly thinking of universal philosofical issues, I create my writings on [Obsidian](https://obsidian.md/)
 - :seedling: Looking forward to collaborate and get a remote job 💻
 - :mailbox_with_no_mail: How to reach me: No way! Just follow me here 👧
-- 🌱 I’m currently learning **[What you're currently learning]**.
-- ⚡️ Fun fact: **[I am a philosopher 🤭 ]**.
+- 🌱 I’m currently learning **Mathematics**.
+- ⚡️ Fun fact: **I am a philosopher🤭**.
 
 ## Projects
 
 Here are some of the projects I've worked on:
 
-- [My Blog](https://quiet-kleicha-7bdb6c.netlify.app/) - I used Quasar for front end and Django for backend, it's incomplete 🐿️
+- [My Blog](https://quiet-kleicha-7bdb6c.netlify.app/) - I used Quasar for front end and Django for backend, it's incomplete.
 - [TODO App](https://github.com/yourusername/project2) - When I first learned Quasar, I made this todo app that i tink is nice. But [404]
 - [Chess Site](https://github.com/yourusername/project3) - Chess site I made as a design, I was using AI to build it. [404].
 
