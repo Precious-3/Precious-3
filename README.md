@@ -16,9 +16,9 @@
 
 Here are some of the projects I've worked on:
 
-- [Project 1](https://github.com/yourusername/project1) 
-- [Project 2](https://github.com/yourusername/project2)  
-- [Project 3](https://github.com/yourusername/project3) 
+- [My Blog](https://quiet-kleicha-7bdb6c.netlify.app/) - I used Quasar for front end and Django for backend, it's incomplete 🐿️
+- [TODO App](https://github.com/yourusername/project2) - When I first learned Quasar, I made this todo app that i tink is nice. But [404]
+- [Chess Site](https://github.com/yourusername/project3) - Chess site I made as a design, I was using AI to build it. [404].
 
 
 ## Stuff I somehow know:
