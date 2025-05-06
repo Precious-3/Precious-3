@@ -4,11 +4,11 @@
 
 ## :sparkles: Highlights
 - 🖤 Call me Precious
-- 🐱 Oftenly Tinkering with several techs such as Django, Quasar, Flutter | Exploring about Astro
+- 🐱 Oftenly Tinkering with some techs, namely Django, Quasar, Flutter | Exploring Astro
 - :man_technologist: Computer Science student | Software Engineer.
 - :brain: Constantly thinking of universal philosofical issues, I create my writings on [Obsidian](https://obsidian.md/)
 - :seedling: Looking forward to collaborate and get a remote job 💻
-- :mailbox_with_no_mail: How to reach me: No way! Just follow me here 😝
+- :mailbox_with_no_mail: How to reach me: No way! Just follow me here 👧
 
 
 ## Stuff I somehow know:
